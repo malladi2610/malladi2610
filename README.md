@@ -11,6 +11,13 @@ I have developed projects focusing on problems in sectors like Agriculture, Heal
 
 I also worked on robotic projects like survey and rescue drone and warehouse management system using ROS
 
+---
+
+🧰 Toolbox 
+
+<img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt = "Arduino-logo" width = "50" height = "50">
+
+<img src = "https://iconscout.com/icon/espressif-2752195#" alt = "Arduino-logo" width = "50" height = "50">
 <!--
 **malladi2610/malladi2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
