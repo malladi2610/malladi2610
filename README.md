@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45">, I am Malladi Naga Subhash
+
+<a href="https://www.linkedin.com/in/nagasubhash2626/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"> </a>  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social"> 
+
 
 <!--
 **malladi2610/malladi2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
