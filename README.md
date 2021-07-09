@@ -24,8 +24,23 @@ src = "https://lh3.googleusercontent.com/proxy/uG6qq0GMm8MrKv5u7gO2kvxHjLud9TIoM
 src = "https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt = "HTML" width = "50" height = "50" /> <img 
 src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt = "CSS" width = "50" height = "50" /> <img 
 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt = "Javascript" width = "50" height = "50" />
-                                                                                                                           
+
+---
+
 <!--
+
+📗 Latest Blog Articles
+
+---
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
+
+▶ [More Blog Posts] (https://mns.hashnode.dev/)
+
+
+
 **malladi2610/malladi2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,4 +53,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
