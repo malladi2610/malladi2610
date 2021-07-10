@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45">, I am Malladi Naga Subhash
 
 ---
-<a href="https://www.linkedin.com/in/nagasubhash2626/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"> </a>  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social"> 
+<a href="https://www.linkedin.com/in/nagasubhash2626/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"> </a>                     [![Twitter Follow](https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social)](https://twitter.com/mns2610)
 
 A ECE student from Sir MVIT, Bangalore. I am enthusiastic in learning and doing experiments in the fields of Electronics, IoT and Robotics.
 
@@ -57,3 +57,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+---
+
+## 📈 My Github Stats
+
+![M.N.Subhash Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malladi2610&hide=CSS,SCSS,Cmake,Shell,Hack,Powershell,PHP,Ruby&theme=radical) ![M.N.Subhash GitHub stats](https://github-readme-stats.vercel.app/api?username=malladi2610&&show_icons=true&theme=radical)
+
+
