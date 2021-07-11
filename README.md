@@ -20,7 +20,7 @@ src = "https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt = "NodeM
 src = "https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt = "Rpi" width = "50" height = "50" /> <img 
 src = "https://cdn.worldvectorlogo.com/logos/c.svg" alt = "C/C++" width = "50" height = "50" /> <img 
 src = "https://cdn.worldvectorlogo.com/logos/python-5.svg" alt = "Python" width = "50" height = "50" /> <img 
-src = "https://lh3.googleusercontent.com/proxy/uG6qq0GMm8MrKv5u7gO2kvxHjLud9TIoMy3KAAKO_jcE4QAFsD8vLI8rNLyb1HjuFaWufX8r2vzpR7PInt295LAnMhJY_6rsStcmX05T9y1Nk9sntA" alt = "ROS" width = "100" height = "50" /> <img 
+src = "https://miro.medium.com/max/730/1*OQ1G3JYI-hDTtoMyYsF2yA.png"  alt = "ROS" width = "100" height = "50" /> <img 
 src = "https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt = "HTML" width = "50" height = "50" /> <img 
 src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt = "CSS" width = "50" height = "50" /> <img 
 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt = "Javascript" width = "50" height = "50" />
