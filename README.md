@@ -27,10 +27,10 @@ src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascri
 
 
 
-<!--
 
-📗 Latest Blog Articles 
----
+
+## 📗 Latest Blog Articles 
+
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -38,11 +38,11 @@ src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascri
 <!-- BLOG-POST-LIST:END -->
 
  
-<!--
+
 ▶ [More Blog Posts] (https://mns.hashnode.dev/)
 
 
-
+<!--
 **malladi2610/malladi2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
