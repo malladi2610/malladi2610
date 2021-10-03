@@ -38,7 +38,7 @@ src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascri
 
  
 
-▶ [More Blog Posts] (https://mns.hashnode.dev/)
+▶ [More Blog Posts] (https://mnsbuilds.hashnode.dev/)
 
 
 <!--
