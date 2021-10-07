@@ -33,6 +33,7 @@ src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascri
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with IoT](https://mnsbuilds.hashnode.dev/getting-started-with-iot)
 - [Getting started with Edge Impulse](https://mnsbuilds.hashnode.dev/getting-started-with-edge-impulse)
 <!-- BLOG-POST-LIST:END -->
 
