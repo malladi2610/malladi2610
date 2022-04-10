@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 ## 📈 My Github Stats
 <!--
-![M.N.Subhash Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malladi2610&hide=CSS,SCSS,Cmake,Shell,Hack,Powershell,PHP,Ruby&theme=radical)--> ![M.N.Subhash GitHub stats](https://github-readme-stats.vercel.app/api?username=malladi2610&&show_icons=true&theme=radical)
+![M.N.Subhash Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malladi2610&hide=CSS,SCSS,Cmake,Shell,Hack,Powershell,PHP,Ruby&theme=radical)--> 
+![M.N.Subhash GitHub stats](https://github-readme-stats.vercel.app/api?username=malladi2610&&show_icons=true&theme=radical)
 
 
