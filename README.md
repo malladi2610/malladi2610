@@ -3,7 +3,7 @@
 ---
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasubhash2626/)                        [![Twitter Follow](https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social)](https://twitter.com/mns2610)
 
-A ECE student from Sir MVIT, Bangalore. I am enthusiastic in learning and doing experiments in the fields of Electronics, IoT and Robotics.
+Robotics Software Developer at UVASKA-ETS. I am enthusiastic in learning and doing experiments in the fields of Electronics, IoT and Robotics.
 
 I have worked on various microcontrollers and microprocessors from different families like Arduino, Espressif, Raspberry Pi and Texas Instrumments
 
@@ -13,7 +13,7 @@ I also worked on robotic projects like survey and rescue drone and warehouse man
 
 ---
 
-🧰 Toolbox 
+## 🧰 Toolbox 
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt = "Arduino-logo" width = "50" height = "50" /> <img 
 src = "https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt = "NodeMCU-logo" width = "50" height = "50" /> <img 
