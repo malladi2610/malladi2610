@@ -25,9 +25,7 @@ src = "https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt = "HTML" width = "
 src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt = "CSS" width = "50" height = "50" /> <img 
 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt = "Javascript" width = "50" height = "50" />
 
-
-
-
+---
 
 ## 📗 Latest Blog Articles 
 
@@ -37,9 +35,15 @@ src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascri
 - [Getting started with Edge Impulse](https://mnsbuilds.hashnode.dev/getting-started-with-edge-impulse)
 <!-- BLOG-POST-LIST:END -->
 
- 
-
 ▶ [More Blog Posts] (https://mnsbuilds.hashnode.dev/)
+
+---
+
+## 📈 My Github Stats
+<!--
+![M.N.Subhash Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malladi2610&hide=CSS,SCSS,Cmake,Shell,Hack,Powershell,PHP,Ruby&theme=radical)--> 
+![M.N.Subhash GitHub stats](https://github-readme-stats.vercel.app/api?username=malladi2610&&show_icons=true&theme=radical)
+
 
 
 <!--
@@ -57,11 +61,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
----
-
-## 📈 My Github Stats
-<!--
-![M.N.Subhash Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malladi2610&hide=CSS,SCSS,Cmake,Shell,Hack,Powershell,PHP,Ruby&theme=radical)--> 
-![M.N.Subhash GitHub stats](https://github-readme-stats.vercel.app/api?username=malladi2610&&show_icons=true&theme=radical)
-
-
