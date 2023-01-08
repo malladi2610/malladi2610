@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45">, I am Malladi Naga Subhash
 
 ---
-[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasubhash2626/)                        [![Twitter Follow](https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social)](https://twitter.com/mns2610)
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasubhash2626/)                [![Twitter Follow](https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social)](https://twitter.com/mns2610)
 
 Robotics Software Developer at UVASKA-ETS. I am enthusiastic in learning and doing experiments in the fields of Electronics, IoT and Robotics.
 
@@ -15,12 +15,12 @@ I also worked on robotic projects like survey and rescue drone and warehouse man
 
 ## 🧰 Toolbox 
 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt = "Arduino-logo" width = "50" height = "50" /> <img 
-src = "https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt = "NodeMCU-logo" width = "50" height = "50" /> <img 
-src = "https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt = "Rpi" width = "50" height = "50" /> <img 
-src = "https://cdn.worldvectorlogo.com/logos/c.svg" alt = "C/C++" width = "50" height = "50" /> <img 
-src = "https://cdn.worldvectorlogo.com/logos/python-5.svg" alt = "Python" width = "50" height = "50" /> <img 
-src = "https://miro.medium.com/max/730/1*OQ1G3JYI-hDTtoMyYsF2yA.png"  alt = "ROS" width = "100" height = "50" /> <img 
+<img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt = "Arduino-logo" width = "50" height = "50" /> 
+<img src = "https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt = "NodeMCU-logo" width = "50" height = "50" /> 
+<img src = "https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt = "Rpi" width = "50" height = "50" /> 
+<img src = "https://cdn.worldvectorlogo.com/logos/c.svg" alt = "C/C++" width = "50" height = "50" /> 
+<img src = "https://cdn.worldvectorlogo.com/logos/python-5.svg" alt = "Python" width = "50" height = "50" />
+<img src = "https://miro.medium.com/max/730/1*OQ1G3JYI-hDTtoMyYsF2yA.png"  alt = "ROS" width = "100" height = "50" />
 ---
 
 ## 📗 Latest Blog Articles 
