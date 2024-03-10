@@ -3,13 +3,13 @@
 ---
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasubhash2626/)                [![Twitter Follow](https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social)](https://twitter.com/mns2610)
 
-Robotics Software Developer at UVASKA-ETS. I am enthusiastic in learning and doing experiments in the fields of Electronics, IoT and Robotics.
+ 1st year Master's Student in Computers and Embedded Systems with specialisation is Computer Architecture at TU, Delft, Netherlands. I am enthusiastic about learning and doing experiments in the fields of Electronics, Robotics and AI.
 
 I have worked on various microcontrollers and microprocessors from different families like Arduino, Espressif, Raspberry Pi and Texas Instrumments
 
-I have developed projects focusing on problems in sectors like Agriculture, Healthcare and Safety, all the applications were IoT based and implemented with cloud services like Adafruit, Blynk and Thingspeak etc..,
+I have developed projects focusing on problems in sectors like Agriculture, Healthcare and Safety, all the applications were IoT-based and implemented with cloud services like Adafruit, Blynk and Thingspeak etc..,
 
-I also worked on robotic projects like survey and rescue drone and warehouse management system using ROS
+I also worked on robotic projects like survey and rescue drones and warehouse management system using ROS
 
 ---
 
