@@ -3,7 +3,7 @@
 ---
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasubhash2626/)                [![Twitter Follow](https://img.shields.io/twitter/follow/mns2610?label=My%20Twitter%20Followers&style=social)](https://twitter.com/mns2610)
 
- 1st year Master's Student in Computers and Embedded Systems with specialisation is Computer Architecture at TU, Delft, Netherlands. I am enthusiastic about learning and doing experiments in the fields of Electronics, Robotics and AI.
+2nd year Master's Student in Computers and Embedded Systems with specialisation is Computer Architecture at TU, Delft, Netherlands. I am enthusiastic about learning and doing experiments in the fields of Electronics, Robotics and AI.
 
 I have worked on various microcontrollers and microprocessors from different families like Arduino, Espressif, Raspberry Pi and Texas Instrumments
 
